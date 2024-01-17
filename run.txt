@@ -4,7 +4,7 @@ cd
 cd  PR1
 lex  try.l
 cc  lex.yy.c  -ll
-./.a.out
+./a.out
 
 Input :
 6
@@ -15,7 +15,7 @@ PR2
 cd
 cd  PR2
 lex  program2.l
-cc   lex.yy.c. -ll
+cc   lex.yy.c  -ll
 ./a.out  input
 
 Input:-
